@@ -5,7 +5,6 @@ public class Exercise02 {
     public static void main(String[] args) {
         double r = 15;
         double a, l;
-        double numberPI = 3.1416;
 
         //Fórmula del área de un círculoS: a = radio * radio * Número PI
 
